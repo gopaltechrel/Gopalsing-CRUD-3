@@ -1,1 +1,2 @@
-# Gopalsing-CRUD-3
+# js-crud
+four essential operations for creating and managing persistent data elements
